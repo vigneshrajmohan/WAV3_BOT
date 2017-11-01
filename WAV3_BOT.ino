@@ -49,6 +49,9 @@ void loop() {
 }
 
 void accel()
+ 
+  // the numbers can be edited to work with your robot's motor difference 
+  // the Wav3Bot I created went in a straight line with the numbers presented in the code below
 
 {
   Serial.print("AcX = ");
